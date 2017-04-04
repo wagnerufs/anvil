@@ -1,0 +1,14 @@
+Package: qGaussian
+Title: The q-Gaussian Distribution
+Version: 0.1.4
+Author: Emerson Luis de Santa Helena <elsh@ufs.br>
+        Wagner Santos de Lima <wagnersantos.ufs@hotmail.com>
+Maintainer: Wagner Santos de Lima <wagnersantos.ufs@hotmail.com>
+Description: Density, distribution function, quantile function and random generation for the q-Gaussian distribution with mu equal to q-mean and sig equal to q-variance.
+Depends: R (>= 3.2.0)
+License: GPL
+LazyData: true
+RoxygenNote: 5.0.1
+Imports: robustbase , zipfR , stats
+NeedsCompilation: no
+Packaged: 2016-10-25 18:25:53 UTC; elsh
