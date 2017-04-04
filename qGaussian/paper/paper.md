@@ -1,22 +1,14 @@
 ---
   title: 'qGaussian: An R package that deal with the Tsallis statistics'
-  tags:
-    - example
-    - tags
-    - for the paper
   authors:
-   - name: Wagner Santos
+   - name: Wagner Santos de Lima
      orcid: 0000-0000-0000-1234
-     affiliation: 
+     affiliation: Universidade Federal de Sergipe
    - name: Emerson Luis de Santa Helena
      orcid: 0000-0002-9970-3544
-     affiliation: 2
-  affiliations:
-   - name: Universidade Federal de Sergipe
-     index: 1
-   - name: Universidade Federal de Sergipe
-     index: 2
-  date: 14 February 2016
+     affiliation: Universidade Federal de Sergipe
+  date: 04 April 2017
+  
   bibliography: paper.bib
   ---
 
