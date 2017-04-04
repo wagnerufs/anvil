@@ -29,10 +29,4 @@
   
 
   # References
-  Thistleton, W.,Marsh, J. A.,Nelson, K.,Tsallis, C., (2007) IEEE Transactions on Information Theory, 53(12):4805
   
-  Tsallis, C., (2009) Introduction to Nonextensive Statistical Mechanics. Springer.
-  
-  de Santa Helena, E. L., Nascimento, C. M., and Gerhardt, G. J., (2015) Alternative way to charecterize a q-gaussian distribution by a robust heavy tail measurement. Physica A, (435):44-50.
-  
-  Manuscript submitted for publication (2016) qGaussian:  Tools to Explore Applications of Tsallis Statistics
