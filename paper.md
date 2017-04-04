@@ -23,9 +23,9 @@
   # Summary
 
   qGaussian is a R package that contain probability distributions functions, random number
-  generator and others maathematical functions related to the Tsallis Statistics. The user can apply a robust 
-  statistical test to identify a q-gaussian distribution at empirical data. A full text can be find in
-  https://arxiv.org/abs/1703.06172
+  generator [@thistleton] and others maathematical functions related to the Tsallis Statistics [@tsallis]. 
+  The user can apply a robust statistical test to identify a q-gaussian distribution at empirical data[@santahelena]. 
+  A full text [@full] can be find in https://arxiv.org/abs/1703.06172
   
 
   # References
