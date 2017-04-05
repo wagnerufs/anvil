@@ -16,7 +16,7 @@ bibliography: paper.bib
 
 # Summary
 
-qGaussian is a R package that contain probability distributions functions and others mathematical functions related 
+qGaussian is an R package that contain probability distributions functions and others mathematical functions related 
 to the Tsallis Statistics [@tsallis]. The user can apply a statistical test to verify how the q-Gaussian distribution adjusts 
 to the empirical data [@santahelena]. By default, it is provided the density, distribution function, quantile function and 
 random generation [@thistleton] for the q-gaussian distribution. 
