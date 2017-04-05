@@ -3,7 +3,7 @@ title: "qGaussian: An R package that deal with the Tsallis statistics"
 
 authors:
    - name: Wagner Santos de Lima
-     orcid: 0000-0000-0000-1234
+     orcid: 0000-0001-8661-4828
      affiliation: Universidade Federal de Sergipe
    - name: Emerson Luis de Santa Helena
      orcid: 0000-0002-9970-3544
