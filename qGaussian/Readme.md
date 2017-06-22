@@ -7,7 +7,7 @@
 
 ## Description
 
-`qGaussian` is an R package for implementing Tsallis Statistics.
+`qGaussian` is an R package for implementing Tsallis Statistics
 
 ## Installation
 
@@ -15,3 +15,6 @@ You can install `qGaussian` using the latest released version from CRAN:
 
 install.packages("qGaussian")
 
+## Supplement informations
+
+In this [paper](https://arxiv.org/pdf/1703.06172.pdf) can be found examples of `qGaussian` pakage as same time an abstract of Tsallis Statistics and related of mathematics concepts.
