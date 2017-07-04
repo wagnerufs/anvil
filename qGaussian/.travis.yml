@@ -1,0 +1,13 @@
+language: r
+sudo: required
+cache: packages
+warnings_are_errors: true
+
+repos:
+  CRAN: https://cloud.r-project.org
+  ropensci: http://packages.ropensci.org
+ 
+notifications:
+  email:
+    on_success: change
+on_failure: change
